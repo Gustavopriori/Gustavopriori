@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá, meu nome é Gustavo Henrique Rodrigues Priori.
+ Sou aluno do 1° ano A de pensamento computacional.
 
 <!--
 **Gustavopriori/Gustavopriori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
